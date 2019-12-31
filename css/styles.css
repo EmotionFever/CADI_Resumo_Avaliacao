@@ -139,12 +139,17 @@ table tr > td {
 
 table tr > td > div {
   position: relative;
-  font-size: 95%;
+  font-size: 90%;
   height:100%; 
   width:100%;
   font-family: 'Ultra', serif;
 }
-
+table tr > td {
+  height: 75px;
+}
+table {
+  width: 1050px;
+}
 table tr > td > div > span {
   font-family: 'Roboto', sans-serif;
   position: absolute;
